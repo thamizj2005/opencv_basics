@@ -27,7 +27,7 @@ In Python, we use it through the `cv2` module.
 ## Installing OpenCV
 
 ```bash
-pip install opencv-python
+pip install opencv-contrib-python
 ```
 
 This installs the main OpenCV package for Python.
