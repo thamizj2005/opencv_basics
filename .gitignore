@@ -1,0 +1,27 @@
+# Large video files
+forest.mp4
+*.mp4
+
+# Virtual Environment
+cv2/
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
